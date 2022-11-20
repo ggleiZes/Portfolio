@@ -2,6 +2,7 @@ Portfolio pour partager mes projets
 
 [Prétraitement et manipulation des données](Prétraitement et manipulation de données.pdf)
 <br />
+
 [Visualisation de données](Visualisation de données/Visualisation de données.pdf)
 <br />
 [Visualisation de données - Impact traffic aérien](Visualisation de données/Figures Interactives/Exercice11 GenevieveGleizes VersionGlobe.html)

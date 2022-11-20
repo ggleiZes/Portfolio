@@ -1,5 +1,7 @@
 Portfolio pour partager mes projets
 
+[Prétraitement et manipulation des données](Prétraitement et manipulation de données.pdf)
+[Réduction de dimensionnalité](Réduction dimensionnalité)
 [Machine Learning](Introduction%20au%20machine%20learning.html)
 
 <!---

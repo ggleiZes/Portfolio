@@ -8,6 +8,10 @@ Portfolio pour partager mes projets
 [Visualisation de données - Impact traffic aérien](Visualisation de données/Figures Interactives/Exercice11 GenevieveGleizes VersionGlobe.html)
 
 <br />
+[Statistiques](Introduction aux statistiques.pdf)
+<br />
+
+<br />
 [Réduction de dimensionnalité projet 1](Réduction dimensionnalité/Réduction Dimensionnalité Projet1.nb.html)
 <br />
 [Réduction de dimensionnalité projet 2 à 4](Réduction dimensionnalité/Réduction dimensionnalité projet 2 à 4.nb.html)

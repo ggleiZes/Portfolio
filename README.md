@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @ggleiZes.
-- 👀 I’m interested in data sciences and all computing science things.
-- 🌱 I’m currently learning data management.
-- 💞️ I’m looking to collaborate on all data management things.
-- Ask me about production of sourdough bread. 
-- You can corrupt me with sprouted lentils
-- 📫 You can reach me on github.
+Portfolio pour partager mes projets
 
 <!---
 ggleiZes/ggleiZes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
